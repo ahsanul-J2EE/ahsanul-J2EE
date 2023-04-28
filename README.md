@@ -1,3 +1,4 @@
+<img alt="Coder GIF" src="https://javadeveloperzone.com/wp-content/uploads/2017/12/spring-boot-development-tips-1024x488.jpg" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Mohammad Ahsanul Islam</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
