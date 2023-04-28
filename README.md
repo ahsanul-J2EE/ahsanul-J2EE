@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://xperti.io/blogs/wp-content/uploads/2021/04/Xblog2-2-1024x536.png" style="max-width: 100%;max-height: 50%;" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;max-height: 50%;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Mohammad Ahsanul Islam</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
