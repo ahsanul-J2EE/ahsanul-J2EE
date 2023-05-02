@@ -58,7 +58,8 @@ position).
 <hr>
 <h3 align="left">🌟 Project</h3>
 
-- SO Track[https://play.google.com/store/apps/details?id=com.limerickbd.limtech_erp&pli=1]
+- SO Track: This is a tracking app, where all salesperson activity will tracking as per route plan. Senior
+managers can get reports and findings for a salesperson. [https://play.google.com/store/apps/details?id=com.limerickbd.limtech_erp&pli=1]
 
 - Objecttive Test[https://play.google.com/store/apps/details?id=com.deshiit.bcs]
 
