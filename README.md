@@ -12,7 +12,7 @@ I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my deve
 
 ## 💬 Ask me about
 - <b>Topics:</b> Web Development, Git/GitHub
-- <b>Technologies:</b> Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, Figma
+- <b>Technologies:</b> Spring Boot, Java, Flutter, Mobile Application, CSS, MySQL
 
 - 📫 How to reach me **ahsanul.islam@bjitacademy.com**
 
