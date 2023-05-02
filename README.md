@@ -38,7 +38,7 @@ I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my deve
 - Full Stack Web Development - Java2 EE
 <hr>
 <h3 align="left">🎓 Education</h3>
- - B.Sc. in Software Engineering, CGPA-3.64, from Daffodil International University in 2022.
+ - B.Sc. in Software Engineering, from Daffodil International University in 2022.
 <h3 align="left">📚Training</h3>
 
 - Java2EE in BJIT Academy
