@@ -48,11 +48,12 @@ I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my deve
 • Mar 2019 participation Certification at Intra department programming contest (32nd
 position)
 </br>
-• July 2019 participation Certification at Take off programming contest(34th position)</b>
+• July 2019 participation Certification at Take off programming contest(34th position)
+</b>
 • July 2019 participation Certification at Intra department programming contest (12th
-position).</b>
+position).
 • Participation Certificate at National Programming Contest 2019 preliminary.</b>
-
+</b>
 <hr>
 <h3 align="left">🌟 Project</h3>
 
