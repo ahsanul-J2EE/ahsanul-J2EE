@@ -18,10 +18,6 @@ I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my deve
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1z2YBclXQxkPv91Fa1Ou8052csvC1-IA_/view?usp=sharing">View my CV</a>
 
-## ⚡ Fun fact
-[Insert a fun fact about yourself that people might find interesting.]
-
-
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammad-ahsanul-islam-sowmik-b79100187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-ariful-islam-a53496205/" height="30" width="40" /></a>
