@@ -1,5 +1,5 @@
 
-<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://media.licdn.com/dms/image/C4E16AQGmoXkmTzsMEw/profile-displaybackgroundimage-shrink_350_1400/0/1645724742975?e=1688601600&v=beta&t=EdMJbt-6wMTTkLpcxQKFYmxtVDS_b_hs4W8ZF6ga3iU
 <h1 align="left">Hi 👋, I'm Mohammad Ahsanul Islam</h1>
 <h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
 Experienced software engineer and Instructor with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Highly adaptable and 2.5+ years of experience in software development. I want to be in such a company where, I will have the opportunity of enhancing my knowledge and I am able to provide a competitive advantage with my knowledge and skills.
@@ -65,5 +65,5 @@ position).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik255&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanul-J2EE" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik255&show_icons=true&locale=en&layout=compact" alt="ahsanul-J2EE" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik255&show_icons=true&locale=en" alt="ahsanul-J2EE" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik255&" alt="ashik255" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik255&" alt="ahsanul-J2EE" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik255" alt="ahsanul-J2EE" /></a> </p>
