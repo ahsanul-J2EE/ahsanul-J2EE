@@ -52,6 +52,7 @@ position)
 </b>
 • July 2019 participation Certification at Intra department programming contest (12th
 position).
+</br>
 • Participation Certificate at National Programming Contest 2019 preliminary.</b>
 </b>
 <hr>
