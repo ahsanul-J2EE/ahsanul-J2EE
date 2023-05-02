@@ -49,7 +49,7 @@ I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my deve
 position)
 </br>
 • July 2019 participation Certification at Take off programming contest(34th position)
-</b>
+</br>
 • July 2019 participation Certification at Intra department programming contest (12th
 position).
 </br>
